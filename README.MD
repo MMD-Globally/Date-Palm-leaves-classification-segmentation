@@ -330,7 +330,7 @@ We welcome contributions! Please follow these steps:
 ## 📞 Support
 
 For questions and support:
-- 📧 Email: your.email@example.com
+- 📧 Email: muhammadraza.writes@gmail.com
 - 🐛 Issues: [GitHub Issues](https://github.com/yourusername/date-palm-disease-detection/issues)
 - 📖 Documentation: [Wiki](https://github.com/yourusername/date-palm-disease-detection/wiki)
 
@@ -338,18 +338,6 @@ For questions and support:
 
 If you use this code in your research, please cite:
 
-```bibtex
-@article{yourname2025datepalm,
-  title={Deep Learning-Based Date Palm Disease Detection Using Attention Mechanisms and Multi-Modal Analysis},
-  author={Your Name and Collaborators},
-  journal={Journal of Agricultural Technology},
-  volume={XX},
-  number={X},
-  pages={XXX-XXX},
-  year={2025},
-  publisher={Academic Publisher}
-}
-```
 
 ## 📜 License
 
@@ -368,3 +356,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ⭐ **Star this repository if you find it helpful!** ⭐
+
