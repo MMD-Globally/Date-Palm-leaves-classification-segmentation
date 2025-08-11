@@ -1,4 +1,4 @@
-# 🌴 Date Palm Disease Detection: AI-Powered Classification and Segmentation
+# 🌴 Deep Learning Techniques Classification and Segmentation of Date Palm Leaves
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/release/python-380/)
@@ -356,4 +356,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ⭐ **Star this repository if you find it helpful!** ⭐
+
 
